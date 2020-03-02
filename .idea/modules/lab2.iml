@@ -9,8 +9,9 @@
       <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/../../target" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.1:jar" level="project" />
+    <orderEntry type="library" name="scala-sdk-2.11.12" level="application" />
   </component>
 </module>
