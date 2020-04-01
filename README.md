@@ -1,6 +1,8 @@
 ```
 Hello World!
 
+Getting things ready
+
 The Task
 1. Setup a public Git repository on Github1 and send an e-mail with your name and repository address
 to orest.a.lavriv@lpnu.ua (1 point);
