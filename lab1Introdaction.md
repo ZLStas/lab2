@@ -1,3 +1,4 @@
+```
 Distributed Systems Seminars: Introduction
 
 Tasks
@@ -15,3 +16,4 @@ g. BONUS: if your solution also prints the user’s age in days: +1 point;
 
 During the laboratory I have set up env and wrote simple app.The work results you can find : master branch -> lab2/src/main/scala/Hello.scala
 (Project name lab2 will be fixed in future)
+```
